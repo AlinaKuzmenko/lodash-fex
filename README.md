@@ -1,4 +1,4 @@
-# fex-custom-lodash
+# lodash-fex
 Custom lodash for fex.net includes
 - curry
 - get
