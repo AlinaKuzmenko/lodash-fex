@@ -1,15 +1,22 @@
 {
-  "name": "fex-custom-lodash",
+  "name": "lodash-fex",
   "version": "1.0.0",
-  "description": "custom lodash for fex",
+  "description": "Custom lodash package for fex.net",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlinaKuzmenko/lodash-fex.git"
+  },
   "keywords": [
-    "custom",
     "lodash"
   ],
   "author": "alina_kuzmenko",
-  "license": "ISC"
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AlinaKuzmenko/lodash-fex/issues"
+  },
+  "homepage": "https://github.com/AlinaKuzmenko/lodash-fex#readme"
 }
