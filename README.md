@@ -1,12 +1,9 @@
 # fex-custom-lodash
 Custom lodash for fex.net includes
 - curry
-- noop
 - get
 - findIndex
-- forEach
-- isNull
-- isUndefined
+- forEach 
 - throttle
 - isEmpty
 - groupBy
